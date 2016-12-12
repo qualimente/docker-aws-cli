@@ -2,7 +2,7 @@
 
 Create an image with the Amazon Web Services CLI.
 
-Usage:
+# Usage #
 
 Export AWS credential &amp; region configuration as environment variables:
 
