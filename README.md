@@ -1,6 +1,6 @@
 # Overview #
 
-Create an image with the Amazon Web Services CLI.
+Create a Docker image for the Amazon Web Services CLI that provides a portable, contained experience.
 
 # Usage #
 
